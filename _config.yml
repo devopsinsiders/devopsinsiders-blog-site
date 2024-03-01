@@ -1,7 +1,7 @@
 # Site
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
-baseurl: 'https://blog.devopsinsiders.com'
+baseurl: ''
 include: ["_pages"]
 permalink: /:title/
 
